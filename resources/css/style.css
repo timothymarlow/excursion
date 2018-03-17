@@ -1,0 +1,13 @@
+body {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+a {
+  color: aquamarine;
+  font-size: 15px;
+}
